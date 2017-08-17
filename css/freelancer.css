@@ -448,3 +448,9 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+.img-fluid{
+  border-radius: 50%;
+  height: 200px;
+  width: 20px;
+}
